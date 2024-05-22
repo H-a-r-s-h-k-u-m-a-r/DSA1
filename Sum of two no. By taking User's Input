@@ -1,0 +1,9 @@
+// Sum of two no. By taking User's Input
+#include<iostream>
+using namespace std;
+int main(){
+    int a,b;
+    cout<<"Enter 2 No. :";
+    cin>>a>>b;
+    cout<<"SUM = "<<a+b<<endl;
+}
