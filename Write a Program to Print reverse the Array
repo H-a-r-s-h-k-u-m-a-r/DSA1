@@ -1,0 +1,19 @@
+// Write a Program to Print reverse the Array
+
+#include<iostream>
+using namespace std;
+int main(){
+   int n;
+   cout<<"Enter No. Of Element ";
+   cin>>n;
+    int arr[5];
+    cout<<"Enter "<<n<<" Array Element \n";
+    for(int i=0;i<n;i++){
+            cin>>arr[i];
+        }
+        cout<<"Reverse of Array :\n";
+    for(int i=n-1;i>=0;i--){
+            cout<<arr[i]<<" ";
+        }
+      cout<<endl;
+}
