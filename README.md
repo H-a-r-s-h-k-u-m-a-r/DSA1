@@ -1,5 +1,4 @@
 DSA PROBLEMS
-
 1.Write a program to print multiplication of a number.
 2.write a program to print sum of 2 matrix
 3. Write a program to reverse the array.
